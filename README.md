@@ -1,4 +1,3 @@
-MEAL PLANNER
 A web application that helps users to create their own personalized healthy diet based on their lifestyle.
 
 KEY FEATURES
@@ -8,6 +7,3 @@ KEY FEATURES
 CREDITS
 - [Bootstrap](https://getbootstrap.com) for UI components
 - Recipe API powered by [Spoonacular](https://spoonacular.com)
-
-SCREENSHOTS
-![App Screenshot](Picture1.png)
